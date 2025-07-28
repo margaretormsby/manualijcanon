@@ -3,6 +3,12 @@ Quick Help: Install My Canon Printer to My Computer with ij start printer setup
 
 If you've just purchased a Canon printer and you're asking, “How do I **install my Canon printer to my computer**?”—this guide is for you. Using the **ij start Canon printer setup** method, Canon has made printer installation simpler and more accessible than ever.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href=https://canondesk.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Canon Setup</a>
+   </div>
+
 Whether you're a beginner or a seasoned user, understanding how to **install my Canon printer to my computer** properly can save you hours of frustration. This guide will cover everything from setting up your printer, installing drivers, connecting via USB or Wi-Fi, and resolving common problems. Let's dive into the process using the official `ij.start.canon <https://ij.start.canon>`_ platform.
 
 How to Install my Canon Printer to my computer?
